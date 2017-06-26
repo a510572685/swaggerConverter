@@ -13,7 +13,7 @@ If you just want to simply get the convert-from-yaml-to-pdf-and-html stuff done,
 2. Save the yaml files into the same work directory.
 4. Go to your work directory and enter `java -jar swaggerConverter.jar ./`.  
 
-### For expert
+### For experts
 - You can place a `.css` stylesheet file into your work directory, it will be used when generating html files.  
 - The only argument stands for the path of your work directory.  
 
@@ -21,4 +21,7 @@ If you just want to simply get the convert-from-yaml-to-pdf-and-html stuff done,
 This tool used [swagger2markup](https://github.com/Swagger2Markup/swagger2markup) and [asciidoctorj](https://github.com/asciidoctor/asciidoctorj) for conversion. Other libraries used can be found in `pom.xml`.
 
 ## License
-MIT
+MIT  
+
+## Disclaimer
+This is not an official project by Advanced Media Inc.  
